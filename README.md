@@ -1,5 +1,5 @@
 
-# Crimes and crimial acts produced on the road network (patrimony)
+# Crimes and criminal acts produced on the road network (patrimony)
 - 📊 Data Visualization Project
 - 🗓 Date: May 2022
 - 👩🏽‍💻 Created by: Maria Soriano 👋🏼
