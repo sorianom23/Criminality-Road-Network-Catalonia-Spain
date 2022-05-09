@@ -3,9 +3,7 @@
 - 📊 Data Visualization Project
 - 🗓 Date: May 2022
 - 👩🏽‍💻 Created by: Maria Soriano 👋🏼
-
-
-👉🏼 [Check it out here](https://public.tableau.com/views/Crimesandcirminalactsproducedontheroadnetworkpatirmony/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link) 👈🏼
+- 👉🏼 [Check it out here](https://public.tableau.com/views/Crimesandcirminalactsproducedontheroadnetworkpatirmony/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link) 👈🏼
 
 ## About
 A dashboard displaying information about crimes and criminal acts produced on the road network (patrimony) in Catalonia, Spain. The data has been obtained here.
