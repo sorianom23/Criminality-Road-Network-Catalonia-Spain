@@ -18,8 +18,8 @@ Thus, this only reflects **part of the reality in reference to crimes produced o
 ## Datasets
 - https://datos.gob.es/es/catalogo/a09002970-delitos-y-hechos-delicuenciales-producidos-en-la-red-viaria-patrimonio
 
-Please click the following screenshot to visualize the Tableau dashboard.
-![Screenshot](screenshot.png)
-Example of visualization
+## Visualization
+
+Please click on the screenshot to open and visualize the Tableau dashboard.
 
 [![Screenshot](screenshot.png)](https://public.tableau.com/views/Crimesandcirminalactsproducedontheroadnetworkpatirmony/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
