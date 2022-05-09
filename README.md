@@ -18,7 +18,7 @@ To know more about the competences held by this police force, please check [here
 Thus, this only reflects **part of the reality in reference to crimes produced on the road network.** For sure there exists more data registered by other active police forces in Spain, specially Local Police (Policia Local) but it seems like they don't make their data public. If so, I would expand this visualization using both data sources.
 
 ## Technologies used
-* Python
+* Python (pandas, numpy)
 * Tableau
 
 ## Data
