@@ -23,4 +23,3 @@ Thus, this only reflects part of the reality in reference to crimes produced on 
 Please click the following screenshot to visualize the Tableau dashboard.
 ![Screenshot](screenshot.png)
 Example of visualization
-
